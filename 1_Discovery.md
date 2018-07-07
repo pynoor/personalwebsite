@@ -5,10 +5,11 @@
 
 ### What is important to me?
     -> nice, minimalistic, easily overseeable design
-    -> easily
+    -> being able to easily change, improve the design later on
+    -> speak on some things that are important to me: promote diversity, encourage people to learn new things and not to doubt their abilities - you don't have to have a clue to start.
 
 ## Who is the audience of this project? (2)
-    -> me, perspective employers, my fans, everyone else who was internet
+    -> perspective employers, everyone else on the internet
 
 ### What is important to the audience?
     -> perspective employers: readily available information, professional look and smooth UX, good evaluation of skills, individuality, easy to discover, how I do my work, be able to contact me
@@ -16,6 +17,7 @@
     -> everyone else: not getting bored, not feeling like they are losing their time, see something different, get inspired, learn something, have fun
 
 ## Features:
+    -> name
     -> about
     -> projects(git)
     -> what am I up to/ currently learning or reading
