@@ -13,6 +13,5 @@ My current plan is to follow his plan (excellent plan - I know) and learn contin
 
 Disclaimer : My plan might change along the line. A lot of times.
 
-Lettttt's get it.
 
 
